@@ -28,13 +28,12 @@ with screenshots, the tech stack and how I tested it.
 | Project | What it is | Stack | Status |
 |---|---|---|---|
 | [**Smart Rolodex**](https://github.com/Amazonean/smart-rolodex) | Contacts and networking app with business-card scanning, QR exchange and AI contact research | Flutter, Supabase, ML Kit, Apple Vision | 🟢 [On Google Play](https://play.google.com/store/apps/details?id=com.smartrolodex.smart_rolodex) |
-| [**Offlist**](https://github.com/Amazonean/offlist) | Privacy-first offline tasks, notes and progress tracking | Flutter | 🟢 [On Google Play](https://play.google.com/store/apps/details?id=com.antigravity.offlist) |
 | [**Slap Gods**](https://github.com/Amazonean/slap-gods) | 3D browser fighting game with ten gods from African and Egyptian mythology | TypeScript, Three.js, Vite, Blender | 🟡 In development |
 | [**AI Job Search Agent**](https://github.com/Amazonean/ai-job-search-agent) | My own job-search workflow built with **Claude Code** skills and agents | Claude Code, Python, Google Sheets | 🟢 In daily use |
 | [**Cinematic Director Skill**](https://github.com/Amazonean/cinematic-director-skill) | A **Claude Code** skill that turns ideas into AI video production plans | Claude Code, Node.js | 🟡 In development |
 | [**Arvenu**](https://github.com/Amazonean/arvenu) | Find venues by their live "vibe", rated by the crowd | Flutter, Supabase, Google Maps | 🟡 Prototype |
 
-My apps are published under my company, **[Molaton](https://molaton.org)**.
+Smart Rolodex is published by **[Molaton](https://molaton.org)**, the company I run with my business partner.
 
 ---
 
@@ -48,5 +47,5 @@ clear requirements, test cases before release, and no release with known open de
 
 ### 📫 Contact
 
-- LinkedIn: <!-- Add your LinkedIn URL here -->
+- LinkedIn: https://www.linkedin.com/in/amatesinro-okoro-04417124a/
 - Website: [molaton.org](https://molaton.org)
